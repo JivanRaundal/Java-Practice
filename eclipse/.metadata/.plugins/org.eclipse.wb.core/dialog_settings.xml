@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.model.property.order.ReorderDialog">
+		<item key="x" value="536"/>
+		<item key="y" value="220"/>
+		<item key="width" value="847"/>
+		<item key="height" value="580"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.model.property.editor.string.StringPropertyDialog">
+		<item key="x" value="523"/>
+		<item key="y" value="243"/>
+		<item key="width" value="874"/>
+		<item key="height" value="533"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ImportArchiveDialog">
+		<item key="x" value="522"/>
+		<item key="y" value="223"/>
+		<item key="width" value="959"/>
+		<item key="height" value="573"/>
+		<list key="HISTORY_JAR_LIST">
+			<item value="C:\Users\Jivan\OneDrive\Documents\Downloads\jcalendar-1.4\lib\jcalendar-1.4.jar"/>
+			<item value="C:\Users\Jivan\OneDrive\Documents\Downloads\jcalendar-1.4\lib\junit-4.6.jar"/>
+			<item value="C:\Users\Jivan\OneDrive\Documents\Downloads\jcalendar-1.4\lib\jgoodies-looks-2.4.1.jar"/>
+			<item value="C:\Users\Jivan\OneDrive\Documents\Downloads\jcalendar-1.4\lib\jgoodies-common-1.2.0.jar"/>
+			<item value="C:\Users\Jivan\OneDrive\Documents\Downloads\jcalendar-1.4.jar\jcalendar-1.4.jar"/>
+		</list>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.PaletteManagerDialog">
+		<item key="x" value="522"/>
+		<item key="y" value="120"/>
+		<item key="width" value="875"/>
+		<item key="height" value="779"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.errors.report2.CreateReportDialog">
+		<item key="x" value="522"/>
+		<item key="y" value="275"/>
+		<item key="width" value="875"/>
+		<item key="height" value="469"/>
+	</section>
+</section>
